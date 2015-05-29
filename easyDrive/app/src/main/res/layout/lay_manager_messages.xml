@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bgall1"
+    android:layout_alignParentTop="true"
+    android:layout_alignParentLeft="true"
+    android:layout_alignParentStart="true"
+    >
+
+    <TextView
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Messages"
+        android:textStyle="italic"
+        android:textSize="35sp"
+        android:layout_marginTop="20dp"
+        android:textColor="#FFFFFF"
+        android:layout_gravity="center_horizontal"
+        android:id="@+id/textView3"
+        android:layout_centerHorizontal="true" />
+
+
+
+    <Button
+        android:background="@drawable/buttons"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Inbox"
+        android:textColor="#FFFFFF"
+        android:id="@+id/chcMessagebtn"
+        android:layout_marginTop="102dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginRight="83dp"
+        android:layout_marginEnd="83dp" />
+
+    <Button
+        android:background="@drawable/buttons"
+        android:layout_width="wrap_content"
+        android:layout_marginTop="0dp"
+        android:textColor="#FFFFFF"
+        android:layout_marginRight="20dp"
+        android:layout_height="wrap_content"
+        android:text="Send Message"
+        android:id="@+id/managersendmess"
+        android:layout_alignTop="@+id/chcMessagebtn"
+        android:layout_toLeftOf="@+id/chcMessagebtn"
+        android:layout_toStartOf="@+id/chcMessagebtn" />
+
+
+</RelativeLayout>
+
+
+

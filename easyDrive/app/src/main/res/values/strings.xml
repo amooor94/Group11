@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">easyDrive</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Log Out</string>
+    <string name="showname">easyDrive</string>
+    <string name="title_activity_homepage">Manager</string>
+
+    <string name="title_manager_section1">Home</string>
+    <string name="title_manager_section2">Messages</string>
+    <string name="title_manager_section3">Settings</string>
+    <string name="ranklabel">"Rank : "</string>
+    <string name="countrylabel">"Country : "</string>
+    <string name="populationlabel">"Population : "</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="title_activity_manager_home_page">Manager</string>
+    <string name="title_activity_user_home_page">Driver</string>
+    <string name="title_activity_driver_homepage">"Driver"</string>
+
+    <string name="title_user_section1">Home</string>
+    <string name="title_user_section2">Activities</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_check_message">CheckMessage</string>
+    <string name="title_activity_send_message_driver">Send Message</string>
+    <string name="title_activity_inbox">Inbox</string>
+    <string name="title_activity_check_message_manager">Inbox</string>
+    <string name="title_activity_send_message_manager">Send Message</string>
+    <string name="title_activity_report_user">ReportUserActivity</string>
+    <string name="title_activity_inbox_manager">Inbox</string>
+    <string name="title_activity_send_msg_driver">Send Message</string>
+    <string name="title_activity_tts">TTS</string>
+    <string name="inc" > Increment</string>
+    <string name="dec" > Decrement</string>
+    <string name="pindah" > Pindah</string>
+    <string name="namaberpindah"> Berpindah Kesini </string>
+
+
+    <string name="tts">Text To Speech</string>
+    <string name="text_insert">Write here the sentence to read</string>
+    <string name="text_pitch">Pitch</string>
+    <string name="text_speed">Speed</string>
+    <string name="title_activity_manager_users">ManagerUsers</string>
+    <string name="title_activity_manager_user">ManagerUser</string>
+    <string name="title_activity_create_schedule">CreateSchedule</string>
+    <string name="title_activity_schedule_user">ScheduleUser</string>
+    <string name="title_activity_user__send_message">User_SendMessage</string>
+    <string name="title_activity_maps">Test</string>
+    <string name="title_activity_driving_user">DrivingUser</string>
+
+
+</resources>

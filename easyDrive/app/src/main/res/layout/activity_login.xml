@@ -1,0 +1,92 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin" tools:context=".LoginActivity"
+    android:background="@drawable/background"
+    android:gravity="center"
+
+    >
+
+
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:hint="Username"
+        android:textColorHint="#1F3768"
+        android:textColor="#1F3768"
+        android:textSize="25sp"
+        android:ems="10"
+        android:id="@+id/usernameLoginText"
+
+        android:layout_above="@+id/passwordLoginText"
+        android:layout_centerHorizontal="true" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textPassword"
+        android:ems="10"
+        android:textColorHint="#1F3768"
+        android:hint="Password"
+        android:textSize="25sp"
+        android:textColor="#1F3768"
+        android:id="@+id/passwordLoginText"
+        android:layout_above="@+id/LoginBtn"
+        android:layout_alignLeft="@+id/usernameLoginText"
+        android:layout_alignStart="@+id/usernameLoginText" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="LOG IN"
+        android:id="@+id/LoginBtn"
+        android:textColor="#003399"
+        android:textSize="25sp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignLeft="@+id/passwordLoginText"
+        android:layout_alignStart="@+id/passwordLoginText" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/showname"
+        android:id="@+id/textView"
+        android:enabled="false"
+        android:focusableInTouchMode="false"
+        android:textSize="45sp"
+        android:textStyle="bold"
+        android:textColor="#003399"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="&quot;Safety rules, best tools&quot;"
+        android:textColor="#003399"
+        android:textStyle="italic"
+        android:id="@+id/textView10"
+        android:layout_below="@+id/textView"
+        android:layout_centerHorizontal="true" />
+    <TextView
+        android:layout_marginTop="30dp"
+        android:background="@drawable/edittextcorner"
+        android:id="@+id/displaySpeed"
+        android:text="Speed"
+        android:textStyle="italic"
+        android:textColor="#FFFFFF"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="52dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:textSize="20dp" />
+
+
+</RelativeLayout>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+
+    >
+
+    <TextView
+        android:id="@+id/ranklabel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Date: "
+        android:textSize="20dp"
+        android:textColor="#FFFFFF"
+        android:textStyle="italic"
+        android:fontFamily="sans-serif-condensed"
+        />
+
+    <TextView
+        android:id="@+id/date"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@+id/ranklabel"
+        android:textSize="20dp"
+        android:textColor="#FFFFFF"
+        android:textStyle="italic"
+        android:textAllCaps="true"/>
+
+    <TextView
+        android:id="@+id/countrylabel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/ranklabel"
+        android:text="Driver: "
+        android:textSize="20dp"
+        android:textColor="#FFFFFF"
+        android:textStyle="italic"
+        />
+
+    <TextView
+        android:id="@+id/driver"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/date"
+        android:layout_toRightOf="@+id/countrylabel"
+        android:textSize="20dp"
+        android:textColor="#FFFFFF"
+        android:textStyle="italic"
+        android:fontFamily="sans-serif-condensed"
+        android:textAllCaps="true" />
+
+    <TextView
+        android:id="@+id/populationlabel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/driver"
+        android:text="Destination: "
+        android:textSize="20dp"
+        android:textColor="#FFFFFF"
+        android:textStyle="italic"
+        />
+
+    <TextView
+
+        android:id="@+id/destination"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/driver"
+        android:layout_toRightOf="@+id/populationlabel"
+        android:textSize="20dp"
+        android:textColor="#FFFFFF"
+        android:textStyle="italic"
+        android:textAllCaps="true"/>
+
+
+</RelativeLayout>

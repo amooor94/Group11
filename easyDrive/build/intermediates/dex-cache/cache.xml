@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/amooor/Downloads/EasyDrive-2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3b4ff5c39dace8f3b4ab4cab8191785547a0815f">
+        <dex dex="/Users/amooor/Downloads/EasyDrive-2/app/build/intermediates/pre-dexed/debug/classes-4b0c1eef1485f03fd5e0ee573c00abbb441c79ff.jar" />
+    </item>
+    <item
+        jar="/Users/amooor/Downloads/EasyDrive-2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="bb36004beb02b69562cbec9aa7d6a3cf16bf5d1b">
+        <dex dex="/Users/amooor/Downloads/EasyDrive-2/app/build/intermediates/pre-dexed/debug/classes-9a2c478ae37fa993550e913d9d10c9819285c395.jar" />
+    </item>
+    <item
+        jar="/Users/amooor/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-android/1.7.7/f1c194a0753f5005eb57d69bccc7091460edd15a/slf4j-android-1.7.7.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f1c194a0753f5005eb57d69bccc7091460edd15a">
+        <dex dex="/Users/amooor/Downloads/EasyDrive-2/app/build/intermediates/pre-dexed/debug/slf4j-android-1.7.7-3dc467d84252c0dfb311ff6dc55c8cdefce22849.jar" />
+    </item>
+    <item
+        jar="/Users/amooor/Downloads/EasyDrive-2/app/libs/Parse-1.9.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1b065010f3c9d441ede9078aca8eabcd1c81e647">
+        <dex dex="/Users/amooor/Downloads/EasyDrive-2/app/build/intermediates/pre-dexed/debug/Parse-1.9.1-e7ba71729e3365da91a167eb436d7567c832a948.jar" />
+    </item>
+    <item
+        jar="/Users/amooor/Downloads/EasyDrive-2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b2c07cdb814fe988ad05f7b4d767a841514a5991">
+        <dex dex="/Users/amooor/Downloads/EasyDrive-2/app/build/intermediates/pre-dexed/debug/classes-4f8438d944a3d9dfab3a1694807e279eeb678c24.jar" />
+    </item>
+    <item
+        jar="/Users/amooor/Downloads/EasyDrive-2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0708ef60917bf94913fe9ef972a655b99462dca7">
+        <dex dex="/Users/amooor/Downloads/EasyDrive-2/app/build/intermediates/pre-dexed/debug/classes-88b4044524a641ec9b4c693fca860c58fff7c9bb.jar" />
+    </item>
+    <item
+        jar="/Users/amooor/Downloads/EasyDrive-2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3988694bf9d8186ff97ad5cdfa4ed88b5010fe08">
+        <dex dex="/Users/amooor/Downloads/EasyDrive-2/app/build/intermediates/pre-dexed/debug/classes-ed3cb7ab9b4e267eb84807a3dc27fc5faa8568cb.jar" />
+    </item>
+    <item
+        jar="/Users/amooor/Downloads/EasyDrive-2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5ea948d825957be6c4358c48422bee60eef2d487">
+        <dex dex="/Users/amooor/Downloads/EasyDrive-2/app/build/intermediates/pre-dexed/debug/classes-4a3bb13bbc712f2f14d118e5e5156387bfde8ff3.jar" />
+    </item>
+    <item
+        jar="/Users/amooor/Downloads/EasyDrive-2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6046e5cdaf799120b7c56a5a061d80e8854c4d34">
+        <dex dex="/Users/amooor/Downloads/EasyDrive-2/app/build/intermediates/pre-dexed/debug/classes-9ba3e02a4e1a474f4aa94fe26ecf1577bea85e2e.jar" />
+    </item>
+    <item
+        jar="/Users/amooor/Downloads/EasyDrive-2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e5bf453b070c1e39297986144960e45afa0fdfad">
+        <dex dex="/Users/amooor/Downloads/EasyDrive-2/app/build/intermediates/pre-dexed/debug/classes-ce2dfdfa6430845459b3c1f4fbe7f3299046332e.jar" />
+    </item>
+    <item
+        jar="/Users/amooor/Downloads/EasyDrive-2/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/Users/amooor/Downloads/EasyDrive-2/app/build/intermediates/pre-dexed/debug/classes-10aa28aec3cc9919b39724a4ce89352b04f5d6c0.jar" />
+    </item>
+    <item
+        jar="/Users/amooor/Downloads/EasyDrive-2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="59652857a825fff0de62166fca1bc9553cc01abb">
+        <dex dex="/Users/amooor/Downloads/EasyDrive-2/app/build/intermediates/pre-dexed/debug/classes-c3b21736d5982c28056c96897bde8de6492d12d9.jar" />
+    </item>
+    <item
+        jar="/Users/amooor/Downloads/EasyDrive-2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b48d5c51a9a9e329005106b4667f54948de4d4d8">
+        <dex dex="/Users/amooor/Downloads/EasyDrive-2/app/build/intermediates/pre-dexed/debug/classes-d158d557be6d1f26ca5c32fc86a366e37b4d38f2.jar" />
+    </item>
+    <item
+        jar="/Users/amooor/Downloads/EasyDrive-2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a0ce76dfaccbfbd6c551ed2174280aaabe60fe47">
+        <dex dex="/Users/amooor/Downloads/EasyDrive-2/app/build/intermediates/pre-dexed/debug/classes-ea4b04da78b5cfc325df7bfe60ea3199f793a394.jar" />
+    </item>
+    <item
+        jar="/Users/amooor/Downloads/EasyDrive-2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0180d031a7b54dabb93b4af3869468b55dc938bd">
+        <dex dex="/Users/amooor/Downloads/EasyDrive-2/app/build/intermediates/pre-dexed/debug/classes-85d876493905385a97d60f773ad979e9e8f233a0.jar" />
+    </item>
+    <item
+        jar="/Users/amooor/Downloads/EasyDrive-2/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/libs/internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="/Users/amooor/Downloads/EasyDrive-2/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.1-977d1ca0c08c8b1d62b11afec676d40945ec5d56.jar" />
+    </item>
+    <item
+        jar="/Users/amooor/Downloads/EasyDrive-2/app/libs/SDP-1.0-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="37ebc6b26bb1afca6930e9810f1b4ca3021ab5ed">
+        <dex dex="/Users/amooor/Downloads/EasyDrive-2/app/build/intermediates/pre-dexed/debug/SDP-1.0-SNAPSHOT-29925c45051779e550c4969aec54574ad66dca89.jar" />
+    </item>
+    <item
+        jar="/Users/amooor/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.1.1/support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="/Users/amooor/Downloads/EasyDrive-2/app/build/intermediates/pre-dexed/debug/support-annotations-22.1.1-767ecd64fededc3e5614d6b6d978c2bf84035771.jar" />
+    </item>
+    <item
+        jar="/Users/amooor/Downloads/EasyDrive-2/app/libs/Automotive-API-1.0-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="647cd7c16a77627dcc9e5376b7625ec30717ef9d">
+        <dex dex="/Users/amooor/Downloads/EasyDrive-2/app/build/intermediates/pre-dexed/debug/Automotive-API-1.0-SNAPSHOT-d046269302ff3c373638b306c29931dd18d6e32e.jar" />
+    </item>
+    <item
+        jar="/Users/amooor/Downloads/EasyDrive-2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9c9dea9e85aceb09d95df5e6f7bc8a43fc286068">
+        <dex dex="/Users/amooor/Downloads/EasyDrive-2/app/build/intermediates/pre-dexed/debug/classes-70c7ef54ddfeb956c55c9a94d57fde24dceeacbb.jar" />
+    </item>
+    <item
+        jar="/Users/amooor/Downloads/EasyDrive-2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fe3e0c6de7cceed888b277487238b6af9a1cc299">
+        <dex dex="/Users/amooor/Downloads/EasyDrive-2/app/build/intermediates/pre-dexed/debug/classes-edf2da0aeaed2de90b54e48632e185fae67011ad.jar" />
+    </item>
+    <item
+        jar="/Users/amooor/Downloads/EasyDrive-2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="565a01f90f1529f73362707c4c185d0623a68782">
+        <dex dex="/Users/amooor/Downloads/EasyDrive-2/app/build/intermediates/pre-dexed/debug/classes-7746141c7d89c34cdca20dfa32808c61ce729332.jar" />
+    </item>
+    <item
+        jar="/Users/amooor/Downloads/EasyDrive-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="/Users/amooor/Downloads/EasyDrive-2/app/build/intermediates/pre-dexed/debug/classes-546bce1f5cd6b43f6cff903eea84aa31cab2cfc0.jar" />
+    </item>
+    <item
+        jar="/Users/amooor/Downloads/EasyDrive-2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e5b9f5b0aa8dee788beb63d23832cb29ce771343">
+        <dex dex="/Users/amooor/Downloads/EasyDrive-2/app/build/intermediates/pre-dexed/debug/classes-644e623d18539ca6fe248bafc880281bf17d4896.jar" />
+    </item>
+    <item
+        jar="/Users/amooor/Downloads/EasyDrive-2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e35fae1b377c23aa5fd2d309a190c2d0f73d54ec">
+        <dex dex="/Users/amooor/Downloads/EasyDrive-2/app/build/intermediates/pre-dexed/debug/classes-4860178f3f16eef735a1915105500396a067b7f0.jar" />
+    </item>
+    <item
+        jar="/Users/amooor/Downloads/EasyDrive-2/app/libs/VIL-1.0-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3415eab9cebbfa50abd8f3da16cf203d18cda415">
+        <dex dex="/Users/amooor/Downloads/EasyDrive-2/app/build/intermediates/pre-dexed/debug/VIL-1.0-SNAPSHOT-16df65bb28f398fe2a919573c4bc0d0402c972c5.jar" />
+    </item>
+    <item
+        jar="/Users/amooor/Downloads/EasyDrive-2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f2f7ec211ce4d244ee97a57523eeb4526dc3cf8a">
+        <dex dex="/Users/amooor/Downloads/EasyDrive-2/app/build/intermediates/pre-dexed/debug/classes-f1bc670008e444c15999c04a59e73acafe410dcd.jar" />
+    </item>
+    <item
+        jar="/Users/amooor/Downloads/EasyDrive-2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7215ac1f2fca947b9415a6ee2a1bf991364aab24">
+        <dex dex="/Users/amooor/Downloads/EasyDrive-2/app/build/intermediates/pre-dexed/debug/classes-9fc134bd5052d12ef919a02264a9158da590090d.jar" />
+    </item>
+    <item
+        jar="/Users/amooor/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.7/2b8019b6249bb05d81d3a3094e468753e2b21311/slf4j-api-1.7.7.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2b8019b6249bb05d81d3a3094e468753e2b21311">
+        <dex dex="/Users/amooor/Downloads/EasyDrive-2/app/build/intermediates/pre-dexed/debug/slf4j-api-1.7.7-ab5c694a0c3025574e325889f988257ca089f194.jar" />
+    </item>
+    <item
+        jar="/Users/amooor/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.2.0/6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd/bolts-android-1.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="/Users/amooor/Downloads/EasyDrive-2/app/build/intermediates/pre-dexed/debug/bolts-android-1.2.0-13bccca7968418792f67c9a0d6cd1e85892984c8.jar" />
+    </item>
+    <item
+        jar="/Users/amooor/Downloads/EasyDrive-2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4f4fe3c23776540625f3c2844152a7510fddf9f1">
+        <dex dex="/Users/amooor/Downloads/EasyDrive-2/app/build/intermediates/pre-dexed/debug/classes-7a68fbeef45ee0d11e45b8ec260c00a35d1881a8.jar" />
+    </item>
+
+</items>
